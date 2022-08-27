@@ -1,0 +1,277 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: black;
+    color: white;
+}
+
+header{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    margin: 2em;
+    position: static;
+    
+}
+
+
+.navbars{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    width: 75em;
+    
+
+    
+}
+
+.nav-links{
+    display: flex;
+    justify-content: center;
+    gap: 2em;
+    
+}
+.name-web{
+    font-size: 30px;
+}
+.nav-links li{
+    list-style: none;
+    font-size: 25px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.hero-section{
+    background-color: black;
+    gap: 1em;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 4em;
+    
+   
+  
+
+   
+}
+
+.img-hero > img{
+    width: 25em;
+    height: 30em;
+}
+.line-con{
+    justify-content: center;
+    display: flex;
+    margin: 3em;
+}
+.line{
+    background-color: beige;
+    height: 1px;
+    width: 65em;
+   
+  
+}
+.first-parag{
+    font-size: 2.1em;
+}
+.pragraph{
+    width:30em;
+    
+  
+   
+    
+}
+
+.second-parag{
+    text-align: center;
+    word-break: break-all;
+    margin: 0.4em;
+    font-size: 2em;
+
+}
+
+.Section-1{
+    display: flex;
+    justify-content: center;
+
+    
+}
+.sect-bg{
+    background-color: black;
+    width:80em;
+   
+
+}
+
+.card-container{
+    display: flex;
+    justify-content: center;
+    gap: 1em;
+    flex-wrap: wrap;
+    margin: 3em;
+    
+}
+.sect1-head{
+    text-align: center;
+    font-weight: 700;
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+.card{
+    width: 15em;
+    height: 18em;
+    background-color: #8d8d8d;
+    
+
+    
+}
+
+
+.Section-2{
+    display: flex;
+    justify-content: center;
+    margin: 4em;
+   
+}
+
+.sect2-cont{
+    background-color: aliceblue;
+    color: black;
+    width: 70em;
+    height: 15em;
+  
+
+}
+
+.sect2-layer1{
+    padding-top: 2em;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    padding: 3em;
+}
+.sect2-text1{
+    text-align: center;
+    width: 23em;
+    word-break: break-all;
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    
+}
+    
+.sect2-btn > button{
+    margin-top: 2em;
+    width: 8em;
+    height: 2.6em;
+    padding: 8px;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    text-align: center;
+    letter-spacing: 1px;
+}
+
+
+
+
+
+
+
+.Section-3{
+    background-color:#3535354b;
+ 
+    height:100%;
+    padding: 2em;
+
+}
+.sect3-cont{
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding-top:5em;
+    gap: 2em;
+    flex-wrap: wrap;
+}
+
+.sect3-box1{
+    width: 30em;
+    gap: 3em;
+}
+
+.sect3-sub1{
+    font-size: 20px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+   
+}
+
+.sect3-sub2{
+    margin-top: 1em;
+    font-size:20px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    
+}
+
+.sect3-sub1>h4{
+    color: #0808ff;
+    font-size: 30px;
+}
+
+
+.sect3-box2{
+  font-family: 'Poppins' ,sans-serif;
+  font-weight: 300;
+  margin: 2em;
+    
+}
+
+
+form > input{
+    width:30em;
+    height:3em;
+    padding: 0.3em;
+    font-size: small;
+   
+}
+
+#input-name{
+  margin-top: 1em;
+  margin-bottom: 1em;
+  padding: 0.3em;
+  font-size: small;
+
+}
+#input-email{
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+.sect3-box2-btn {
+    margin-top: 2em;
+    width: 8em;
+    height: 2.6em;
+    padding: 8px;
+    background-color: #1414ffea;
+    color: white;
+    cursor: pointer;
+    text-align: center;
+    letter-spacing: 1px;
+    border: none;
+
+}
