@@ -243,7 +243,7 @@ header{
 
 
 form > input{
-    width:30em;
+    max-width:30em;
     height:3em;
     padding: 0.3em;
     font-size: small;
