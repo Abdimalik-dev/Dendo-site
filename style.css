@@ -132,7 +132,7 @@ header{
     font-size: 20px;
     text-transform: uppercase;
 }
-.card{
+.card >img{
     width: 15em;
     height: 18em;
     background-color: whitesmoke;
