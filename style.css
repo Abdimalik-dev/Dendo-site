@@ -112,7 +112,7 @@ header{
 }
 .sect-bg{
     background-color: black;
-    width:80em;
+    width:60em;
    
 
 }
@@ -135,7 +135,8 @@ header{
 .card{
     width: 15em;
     height: 18em;
-    background-color: #8d8d8d;
+    background-color: whitesmoke;
+    color: #2c2727e7;
     
 
     
