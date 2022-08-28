@@ -41,7 +41,7 @@ header{
     list-style: none;
     font-size: 25px;
     
-}
+} /* HEADER-SECTION*/
 
 
 
@@ -49,11 +49,6 @@ header{
 
 
 /* HERO SECTION */
-
-
-
-
-
 .hero-section{
     background-color: black;
     gap: 1em;
@@ -104,6 +99,10 @@ header{
 
 }
 
+
+
+
+/* SECTION - 1 */
 .Section-1{
     display: flex;
     justify-content: center;
@@ -142,6 +141,11 @@ header{
     
 }
 
+
+
+
+
+/* SECTION - 2 */
 
 .Section-2{
     display: flex;
@@ -189,7 +193,7 @@ header{
 
 
 
-
+/* SECTION -3 */
 
 
 
